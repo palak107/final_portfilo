@@ -49,7 +49,7 @@ section {
 
 /* Alternatively, you can use margin-top if you prefer */
 #section1, #section2, #section3, #section4 {
-    margin-top: 60px;  /* This ensures each section has space at the top */
+    margin-top: 80px;  /* This ensures each section has space at the top */
 
 }
 .mywork {
@@ -122,9 +122,13 @@ justify-content: space-around;
 margin: 50px;
 padding: 30px;
 }
-.pic{
+/* .pic{
     padding: 10px;
     margin:30px
+} */
+.video-container{
+    padding:10px;
+    margin:30px;
 }
 
 .third{ margin: 10%;
